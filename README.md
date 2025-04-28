@@ -22,12 +22,13 @@ Time Tracker & Productivity Management is a browser extension designed to help u
     <h1>Time Tracker & Productivity Management</h1>
 </div>
 
+
 # OUTPUT
 
 
 |   |   |
 |---|---|
-| ![Screenshot 1](https://github.com/user-attachments/assets/7168d428-4cb7-47b0-97f4-0c142f3847df) | ![Screenshot 2](https://github.com/user-attachments/assets/f8c935dc-fdfb-459e-989e-764dddc9ab2f) |
+| ![Screenshot 1](https://github.com/user-attachments/assets/a99bdeec-a57a-4fc8-b304-2760a4cc5396) | ![Screenshot 2](https://github.com/user-attachments/assets/c2940d26-f32c-4819-976e-8df38ff81c14) |
 
 
 
