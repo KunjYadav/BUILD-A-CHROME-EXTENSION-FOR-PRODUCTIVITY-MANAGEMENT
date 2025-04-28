@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "types": [],
+    "outDir": "./dist/",
+    "module": "es6",
+    "target": "es2020",
+    "jsx": "react",
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node"
+  }
+}

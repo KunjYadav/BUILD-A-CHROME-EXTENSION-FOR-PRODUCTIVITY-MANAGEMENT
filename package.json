@@ -1,0 +1,39 @@
+{
+  "name": "time-tracker-productivity-management",
+  "version": "1.0.0",
+  "description": "Keep track of the amount of time you spend on the internet",
+  "main": "background.js",
+  "scripts": {
+    "dev": "webpack --node-env development --config ./webpack.config.js",
+    "prod": "webpack --node-env production --config ./webpack.config.js",
+    "watch": "webpack -w --node-env development --config ./webpack.config.js"
+  },
+  "keywords": [
+    "screen",
+    "time",
+    "browser"
+  ],
+  "author": "Kunj Yadav",
+  "devDependencies": {
+    "@types/chrome": "^0.0.293",
+    "@types/react": "^19.0.4",
+    "@types/react-dom": "^19.0.2",
+    "@types/webextension-polyfill": "^0.10.2",
+    "copy-webpack-plugin": "^11.0.0",
+    "css-loader": "^6.8.1",
+    "sass": "^1.66.1",
+    "sass-loader": "^13.3.2",
+    "style-loader": "^3.3.3",
+    "ts-loader": "^9.4.4",
+    "typescript": "^5.2.2",
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "react": "^19.0.0",
+    "react-datepicker": "^7.6.0",
+    "react-dom": "^19.0.0",
+    "webextension-polyfill": "^0.12.0"
+  }
+}

@@ -1,0 +1,22 @@
+@import "./common.scss";
+
+body {
+    margin: 8px;
+    min-height: 200px;
+    width: 260px;
+}
+
+.appTime {
+    margin: 16px 8px;
+}
+
+.moreInfoBtn {
+    width: 100%;
+    text-align: center;
+    padding: 4px;
+    border: 1px solid #C4C4C4;
+    
+    &:hover {
+        background-color: #E5E5E5;
+    }
+}
